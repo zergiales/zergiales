@@ -1,19 +1,19 @@
 <h1 align="center">Sergio Sánchez López</h1>
 <p align="center">
-  <b>Backend Developer</b> · Java &amp; Spring · Cloud (AWS / Azure)
+  <b>Software Engineer · Ingeniero de Software</b> · Java &amp; Spring · Sistemas críticos · Cloud &amp; DevOps
   <br/>
-  <sub>Desarrollador de software con +4 años de experiencia construyendo aplicaciones fiables y escalables.</sub>
+  <sub>Desarrollador de software con +4 años de experiencia construyendo sistemas fiables para entornos críticos (defensa, aeroespacial y medios de pago).</sub>
   <br/>
-  <sub><i>Software developer with 4+ years of experience building reliable, scalable applications.</i></sub>
+  <sub><i>Software developer with 4+ years of experience building reliable systems for mission-critical environments (defense, aerospace and payments).</i></sub>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí · About me
 
-🇪🇸 Desarrollador **backend** especializado en **Java y el ecosistema Spring** (Boot, MVC, Batch), con experiencia real en proyectos críticos: sistemas espaciales en **Indra Space**, geolocalización de datos en **Dars Telecom** y plataformas de medios de pago en **Sipay**. Cómodo trabajando con bases de datos relacionales, APIs REST y despliegue en la nube (AWS / Azure). Actualmente cursando **Ingeniería Informática** en la UNED.
+🇪🇸 **Ingeniero de software** con enfoque **backend**, especializado en **Java y el ecosistema Spring** (Boot, MVC, Batch), con experiencia real en proyectos críticos: sistemas espaciales en **Indra Space**, geolocalización de datos en **Dars Telecom** y plataformas de medios de pago en **Sipay**. Trabajo con bases de datos relacionales, APIs REST, pruebas unitarias y pipelines de integración continua. Orientado a **empresas de defensa y grandes organizaciones**, donde la fiabilidad, la calidad y la seguridad son clave. Actualmente **estoy terminando mi carrera de Ingeniería Informática** con especialización en Ciencias de la Computación e Ingeniería de Software, y en mis ratos libres me formo en las ramas de **Inteligencia Artificial y Cloud**.
 
-🇬🇧 **Backend** developer focused on **Java and the Spring ecosystem** (Boot, MVC, Batch), with hands-on experience on mission-critical projects: space systems at **Indra Space**, data geolocation at **Dars Telecom**, and payment platforms at **Sipay**. Comfortable with relational databases, REST APIs, and cloud deployment (AWS / Azure). Currently studying **Computer Engineering** at UNED.
+🇬🇧 **Software engineer** with a **backend** focus, specialized in **Java and the Spring ecosystem** (Boot, MVC, Batch), with hands-on experience on mission-critical projects: space systems at **Indra Space**, data geolocation at **Dars Telecom**, and payment platforms at **Sipay**. I work with relational databases, REST APIs, unit testing and continuous integration pipelines. Focused on **defense and large enterprises**, where reliability, quality and security are essential. Currently **finishing my Computer Engineering degree** with a specialization in Computer Science and Software Engineering, and in my free time I train in **Artificial Intelligence and Cloud**.
 
 ---
 
@@ -32,6 +32,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20MVC%20%2F%20Batch-6DB33F?style=flat&logo=spring&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 **Frontend**
 
@@ -49,6 +51,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=flat&logo=bamboo&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
@@ -70,38 +74,19 @@
 
 ## 🎓 Formación & Certificaciones · Education & Certifications
 
-- 🎓 **Ingeniería Informática** — UNED *(2022 – 2026)*
+- 🎓 **Ingeniería Informática** — especialización en Ciencias de la Computación e Ingeniería de Software · UNIR *(2025 – 2027)*
+- 🎓 **Ingeniería Informática** — UNED *(2022 – 2025)*
 - 🎓 **CFGS Desarrollo de Aplicaciones Web (DAW)** — IES Arcipreste de Hita *(2020 – 2022)*
 - 📜 **AWS Certified Cloud Practitioner** *(2025)*
 - 📜 **Microsoft Certified: Azure Fundamentals** *(2025)*
 - 📜 **Certificación Java** *(2022)*
+- 📚 En mis ratos libres · In my free time: formándome en **Inteligencia Artificial / AI** &amp; **Cloud**
 
 ---
 
 ## 🚀 Proyectos destacados · Featured projects
 
+- **Crew Platform** `Spring Boot · Angular` — Plataforma de gestión de equipos **en desarrollo**. · *Team management platform, work in progress.*
 - **Geo Water** `Vue · PHP` — App de geoposicionamiento de aseos en tiempo real. · *Real-time restroom geolocation app.*
 - **Gestor de Stock** `Spring Boot` — Control de stock de almacén con procesos batch automatizados. · *Warehouse stock control with automated batch processes.*
 - **Gestor de Alumnos** `JavaScript · Bootstrap · PHP` — Aplicación de gestión del alumnado. · *Student management application.*
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zergiales&theme=vue&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zergiales&theme=vue&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## 📫 Contacto · Contact
-
-<p align="center">
-  <a href="mailto:zergiosanchezlopez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sergio-sánchez-lopez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
